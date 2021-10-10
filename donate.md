@@ -25,7 +25,7 @@ description: Donate to us
 
 ### 捐助渠道
 
-![支付宝 | 微信 | QQ | 收款人:快辰](.gitbook/assets/pay_all.png)
+![收款人:快辰](.gitbook/assets/pay_all.png)
 
 ### 捐助平台
 
