@@ -1,7 +1,8 @@
 ---
 description: NullCraft Simple Wallpaper Engine
 ---
-# 灵工艺简单动态壁纸 🔧
+
+# 灵工艺简单动态壁纸
 
 ## 软件信息 <a href="ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
 

@@ -1,5 +1,6 @@
 ---
 description: Minecraft Plugin
 ---
-# 🎆 Minecraft 插件
+
+# Minecraft 插件
 

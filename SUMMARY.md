@@ -11,7 +11,7 @@
 * [💖 软件生命周期](software-life-cycle.md)
 * [👏 联系我们](contact.md)
 
-## 📚 教程集合 <a href="tutorial" id="tutorial"></a>
+## 📚 主要教程 <a href="tutorial" id="tutorial"></a>
 
 * [Minecraft 开服教程](tutorial/minecraft-server.md)
 * [端口映射](tutorial/port-mapping.md)
@@ -19,7 +19,7 @@
 
 ## 👴 常见问题 <a href="issue" id="issue"></a>
 
-* [我的世界开服常见问题](issue/minecraft-server.md)
+* [我的世界开服常见问题](issue/server.md)
 
 ## 📂 资源下载 <a href="resource" id="resource"></a>
 
@@ -41,15 +41,15 @@
 
 ## 🔌 已发布插件 <a href="plugin" id="plugin"></a>
 
-* [🎆 Minecraft 插件](plugin/minecraft/README.md)
+* [Minecraft 插件](plugin/minecraft/README.md)
   * [灵工艺规则](plugin/minecraft/ncrules.md)
 
 ## ‼ 已停止支持内容 <a href="outdated" id="outdated"></a>
 
 * [灵工艺我的世界开服器Pro](outdated/minecraft-server-pro.md)
-* [灵工艺简单动态壁纸](outdated/simple-wallpaper-engine.md)
+* [灵工艺简单动态壁纸](software/simple-wallpaper-engine.md)
 * [🤖 酷Q插件](outdated/coolq/README.md)
-  * [酷Q插件使用常见问题](outdated/coolq/coolq.md)
+  * [酷Q插件使用常见问题](issue/coolq.md)
   * [\[灵工艺\] 应答](outdated/coolq/reply.md)
   * [\[灵工艺\] 点歌搜歌](outdated/coolq/music.md)
   * [\[灵工艺\] 轻群管](outdated/coolq/qingqun.md)
