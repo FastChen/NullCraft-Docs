@@ -1,7 +1,8 @@
 ---
 description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作品
 ---
-# 入门
+
+# 📔 入门
 
 {% hint style="warning" %}
 为了更好的体验,我们推荐您使用 Chrome / Firefox / Microsoft Edge (Chromium) 浏览器访问
@@ -13,7 +14,7 @@ description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作�
 
 | 名称(中文)        | 名称(英文)                            | 发布                                                                                    | 文档                                       |                             Source                             |
 | ------------- | --------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------- | :------------------------------------------------------------: |
-| 灵工艺我的世界开服器    | NullCraft Minecraft Server Pro    | [官方](https://nullcraft.org/d/5)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html) | [查看](software/minecraft-server-pro.md)   |                               NO                               |
+| 灵工艺我的世界开服器    | NullCraft Minecraft Server Pro    | [官方](https://nullcraft.org/d/5)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html) | [查看](outdated/minecraft-server-pro.md)   |                               NO                               |
 | 灵工艺未转变者开服器    | NullCraft Unturned Server         | [官方](https://nullcraft.org/d/6)、[MCBBS](https://www.mcbbs.net/thread-547338-1-1.html) | [查看](software/unturned-server.md)        |                               NO                               |
 | 灵工艺我的世界模组更新器  | NullCraft Minecraft Mods Updater  | [官方](https://nullcraft.org/d/7)                                                       | [查看](software/minecraft-mods-updater.md) |                               NO                               |
 | 灵工艺我的世界「轻」开服器 | NullCraft Minecraft Server Lite   | [官方](https://nullcraft.org/d/4)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html) | [查看](software/minecraft-server-lite.md)  |                               NO                               |
@@ -29,19 +30,19 @@ description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作�
 
 ### 🤖 酷Q插件
 
-| 名称(中文)                | 名称(英文)                    | 发布                               | 文档                                    | Source |
-| --------------------- | ------------------------- | -------------------------------- | ------------------------------------- | :----: |
-| \[灵工艺] 应答             | \[NullCraft] Reply        | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/reply.md)           |   NO   |
-| \[灵工艺] 点歌搜歌           | \[NullCraft] Music        | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/music.md)           |   NO   |
-| \[灵工艺] 轻群管            | \[NullCraft] QingQun      | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/qingqun.md)         |   NO   |
-| \[灵工艺] 状态             | \[NullCraft] Status       | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/status.md)          |   NO   |
-| \[灵工艺] 禁言套餐           | \[NullCraft] JinYanTaoCan | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/jin-yan-tao-can.md) |   NO   |
-| \[灵工艺] 哔哩哔哩           | \[NullCraft] BiliBili     | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/bilibili.md)        |   NO   |
-| \[灵工艺] Minecraft 更新推送 | \[NullCraft] MCVerCheck   | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/mcvercheck.md)      |   NO   |
-| \[灵工艺] 今年剩余           | \[NullCraft] YearTime     | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/yeartime.md)        |   NO   |
-| \[灵工艺] 二次元图片          | \[NullCraft] ECYPic       | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/ecypic.md)          |   NO   |
-| \[灵工艺] 拍一拍            | \[NullCraft] Nudge        | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/nudge.md)           |   NO   |
-| \[灵工艺] 地震推送           | \[NullCraft] Earthquake   | [官方](https://nullcraft.org/d/10) | [查看](plugin/coolq/earthquake.md)      |   NO   |
+| 名称(中文)                | 名称(英文)                    | 发布                               | 文档                                      | Source |
+| --------------------- | ------------------------- | -------------------------------- | --------------------------------------- | :----: |
+| \[灵工艺] 应答             | \[NullCraft] Reply        | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/reply.md)           |   NO   |
+| \[灵工艺] 点歌搜歌           | \[NullCraft] Music        | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/music.md)           |   NO   |
+| \[灵工艺] 轻群管            | \[NullCraft] QingQun      | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/qingqun.md)         |   NO   |
+| \[灵工艺] 状态             | \[NullCraft] Status       | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/status.md)          |   NO   |
+| \[灵工艺] 禁言套餐           | \[NullCraft] JinYanTaoCan | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/jin-yan-tao-can.md) |   NO   |
+| \[灵工艺] 哔哩哔哩           | \[NullCraft] BiliBili     | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/bilibili.md)        |   NO   |
+| \[灵工艺] Minecraft 更新推送 | \[NullCraft] MCVerCheck   | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/mcvercheck.md)      |   NO   |
+| \[灵工艺] 今年剩余           | \[NullCraft] YearTime     | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/yeartime.md)        |   NO   |
+| \[灵工艺] 二次元图片          | \[NullCraft] ECYPic       | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/ecypic.md)          |   NO   |
+| \[灵工艺] 拍一拍            | \[NullCraft] Nudge        | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/nudge.md)           |   NO   |
+| \[灵工艺] 地震推送           | \[NullCraft] Earthquake   | [官方](https://nullcraft.org/d/10) | [查看](outdated/coolq/earthquake.md)      |   NO   |
 
 ### 📦 Minecraft插件
 

@@ -30,7 +30,6 @@
 
 ## 💡 已发布软件 <a href="software" id="software"></a>
 
-* [灵工艺我的世界开服器 🎉](software/minecraft-server-pro.md)
 * [灵工艺我的世界「轻」开服器 🔧](software/minecraft-server-lite.md)
 * [灵工艺未转变者开服器 🔧](software/unturned-server.md)
 * [灵工艺我的世界模组更新器 🔧](software/minecraft-mods-updater.md)
@@ -46,17 +45,21 @@
 
 ## 🔌 已发布插件 <a href="plugin" id="plugin"></a>
 
-* [🤖 酷Q插件](plugin/coolq/README.md)
-  * [\[灵工艺\] 应答 🎉](plugin/coolq/reply.md)
-  * [\[灵工艺\] 点歌搜歌 🎉](plugin/coolq/music.md)
-  * [\[灵工艺\] 轻群管 🔧](plugin/coolq/qingqun.md)
-  * [\[灵工艺\] 地震推送 🔧](plugin/coolq/earthquake.md)
-  * [\[灵工艺\] 拍一拍 🔧](plugin/coolq/nudge.md)
-  * [\[灵工艺\] 二次元图片 🔧](plugin/coolq/ecypic.md)
-  * [\[灵工艺\] 今年剩余 🔧](plugin/coolq/yeartime.md)
-  * [\[灵工艺\] MC 更新推送 🔧](plugin/coolq/mcvercheck.md)
-  * [\[灵工艺\] 哔哩哔哩 🔧](plugin/coolq/bilibili.md)
-  * [\[灵工艺\] 禁言套餐 🔧](plugin/coolq/jin-yan-tao-can.md)
-  * [\[灵工艺\] 状态 🎉](plugin/coolq/status.md)
 * [🎆 Minecraft 插件](plugin/minecraft/README.md)
   * [灵工艺规则](plugin/minecraft/ncrules.md)
+
+## ‼ 已停止支持内容 <a href="outdated" id="outdated"></a>
+
+* [灵工艺我的世界开服器Pro](outdated/minecraft-server-pro.md)
+* [🤖 酷Q插件](outdated/coolq/README.md)
+  * [\[灵工艺\] 应答 🎉](outdated/coolq/reply.md)
+  * [\[灵工艺\] 点歌搜歌 🎉](outdated/coolq/music.md)
+  * [\[灵工艺\] 轻群管 🔧](outdated/coolq/qingqun.md)
+  * [\[灵工艺\] 地震推送 🔧](outdated/coolq/earthquake.md)
+  * [\[灵工艺\] 拍一拍 🔧](outdated/coolq/nudge.md)
+  * [\[灵工艺\] 二次元图片 🔧](outdated/coolq/ecypic.md)
+  * [\[灵工艺\] 今年剩余 🔧](outdated/coolq/yeartime.md)
+  * [\[灵工艺\] MC 更新推送 🔧](outdated/coolq/mcvercheck.md)
+  * [\[灵工艺\] 哔哩哔哩 🔧](outdated/coolq/bilibili.md)
+  * [\[灵工艺\] 禁言套餐 🔧](outdated/coolq/jin-yan-tao-can.md)
+  * [\[灵工艺\] 状态 🎉](outdated/coolq/status.md)

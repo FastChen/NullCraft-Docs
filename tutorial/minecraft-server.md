@@ -1,6 +1,7 @@
 ---
 description: Open Minecraft Server
 ---
+
 # Minecraft 开服教程 🔧
 
 {% hint style="info" %}
@@ -47,8 +48,8 @@ description: Open Minecraft Server
 [minecraft-server-lite.md](../software/minecraft-server-lite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../software/minecraft-server-pro.md" %}
-[minecraft-server-pro.md](../software/minecraft-server-pro.md)
+{% content-ref url="../outdated/minecraft-server-pro.md" %}
+[minecraft-server-pro.md](../outdated/minecraft-server-pro.md)
 {% endcontent-ref %}
 
 ### 开启服务器

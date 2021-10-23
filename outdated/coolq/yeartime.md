@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] YearTime
+description: '[NullCraft] YearTime'
 ---
+
 # \[灵工艺] 今年剩余 🔧
 
 ## 软件信息

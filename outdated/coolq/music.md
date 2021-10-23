@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] Music
+description: '[NullCraft] Music'
 ---
+
 # \[灵工艺] 点歌搜歌 🎉
 
 ## 软件信息

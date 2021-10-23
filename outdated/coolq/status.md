@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] Status
+description: '[NullCraft] Status'
 ---
+
 # \[灵工艺] 状态 🎉
 
 ## 软件信息

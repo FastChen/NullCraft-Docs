@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] MCVerCheck
+description: '[NullCraft] MCVerCheck'
 ---
+
 # \[灵工艺] MC 更新推送 🔧
 
 ## 软件信息

@@ -1,6 +1,7 @@
 ---
-description: [Open Source] PHP Minecraft Skin
+description: '[Open Source] PHP Minecraft Skin'
 ---
+
 # \[开源] PHP Minecraft Skin 🎉
 
 {% hint style="success" %}

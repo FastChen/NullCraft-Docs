@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] BiliBili
+description: '[NullCraft] BiliBili'
 ---
+
 # \[灵工艺] 哔哩哔哩 🔧
 
 ## 软件信息

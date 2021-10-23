@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] ECYPic
+description: '[NullCraft] ECYPic'
 ---
+
 # \[灵工艺] 二次元图片 🔧
 
 ## 软件信息

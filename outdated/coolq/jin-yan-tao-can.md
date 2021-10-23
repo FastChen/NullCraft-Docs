@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] JinYanTaoCan
+description: '[NullCraft] JinYanTaoCan'
 ---
+
 # \[灵工艺] 禁言套餐 🔧
 
 ## 软件信息

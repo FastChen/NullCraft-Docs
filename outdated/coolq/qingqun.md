@@ -1,6 +1,7 @@
 ---
-description: [NullCraft] QingQun
+description: '[NullCraft] QingQun'
 ---
+
 # \[灵工艺] 轻群管 🔧
 
 ## 软件信息
