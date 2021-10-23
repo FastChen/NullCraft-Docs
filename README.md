@@ -70,6 +70,6 @@ description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作�
 [library-download.md](resource/library-download.md)
 {% endcontent-ref %}
 
-{% content-ref url="resource/server-download.md" %}
-[server-download.md](resource/server-download.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

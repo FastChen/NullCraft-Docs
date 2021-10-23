@@ -1,7 +1,8 @@
 ---
 description: NullCraft Minecraft Server Lite
 ---
-# 灵工艺我的世界「轻」开服器 🔧
+
+# 灵工艺我的世界「轻」开服器
 
 这里是轻开服器功能教程,如果你在寻找开服教程,请看以下文章
 
@@ -9,8 +10,8 @@ description: NullCraft Minecraft Server Lite
 [minecraft-server.md](../tutorial/minecraft-server.md)
 {% endcontent-ref %}
 
-{% content-ref url="../issue/server.md" %}
-[server.md](../issue/server.md)
+{% content-ref url="../issue/minecraft-server.md" %}
+[minecraft-server.md](../issue/minecraft-server.md)
 {% endcontent-ref %}
 
 ## 版权信息 <a href="ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
@@ -55,8 +56,8 @@ description: NullCraft Minecraft Server Lite
 
 ## 遇到问题?先看这个!
 
-{% content-ref url="../issue/server.md" %}
-[server.md](../issue/server.md)
+{% content-ref url="../issue/minecraft-server.md" %}
+[minecraft-server.md](../issue/minecraft-server.md)
 {% endcontent-ref %}
 
 ## 更新记录 \[最新]

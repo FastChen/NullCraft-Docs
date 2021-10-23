@@ -2,7 +2,7 @@
 description: Open Minecraft Server
 ---
 
-# Minecraft 开服教程 🔧
+# Minecraft 开服教程
 
 {% hint style="info" %}
 服务端下载可访问灵工艺资源广场:[https://mcres.net/](https://mcres.net) 或 前往[用户交流群](https://jq.qq.com/?\_wv=1027\&k=5CNpRf5)下载\
@@ -62,8 +62,8 @@ description: Open Minecraft Server
 
 选择好核心后进入控制面板，点击开启服务器，不出问题服务器就成功开启了，如果遇到无法成功开启，可查看此页
 
-{% content-ref url="../issue/server.md" %}
-[server.md](../issue/server.md)
+{% content-ref url="../issue/minecraft-server.md" %}
+[minecraft-server.md](../issue/minecraft-server.md)
 {% endcontent-ref %}
 
 ### 端口映射 或 内网穿透

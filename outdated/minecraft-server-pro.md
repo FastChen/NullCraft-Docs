@@ -61,8 +61,8 @@ Minecraft开服器建立在Server服务端上，一般情况下服务端通常�
 
 ## 遇到问题?先看这个!
 
-{% content-ref url="../issue/server.md" %}
-[server.md](../issue/server.md)
+{% content-ref url="../issue/minecraft-server.md" %}
+[minecraft-server.md](../issue/minecraft-server.md)
 {% endcontent-ref %}
 
 ## 捐助我们
