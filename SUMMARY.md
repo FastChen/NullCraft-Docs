@@ -37,11 +37,12 @@
 * [灵工艺我的世界皮肤查看器 🔧](software/minecraft-skin-viewer.md)
 * [灵工艺简单动态壁纸 🔧](software/simple-wallpaper-engine.md)
 * [\[开源\] PHP Minecraft Skin 🎉](software/php-minecraft-skin.md)
-* [灵工艺哈希 🎉](software/hash.md)
+* [\[灵工艺\] 哈希 🎉](software/hash.md)
 * [灵工艺功能键通知 🎉](software/function-key-notice.md)
 * [灵工艺Forge安装器 🔧](software/forge-installer.md)
 * [灵工艺腐蚀控制台 🔧](software/ling-gong-yi-fu-shi-kong-zhi-tai.md)
 * [提瓦特之匙 🎉](software/the-key-of-teyvat.md)
+* [\[灵工艺\] 联机组网](software/n2n.md)
 
 ## 🔌 已发布插件 <a href="plugin" id="plugin"></a>
 
