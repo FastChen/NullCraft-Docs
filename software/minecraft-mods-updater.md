@@ -1,9 +1,10 @@
 ---
 description: NullCraft Minecraft Mods Updater
 ---
-# 灵工艺我的世界模组更新器 🔧
 
-## 软件信息 <a href="ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
+# 灵工艺我的世界模组更新器
+
+## 软件信息 <a href="#ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
 
 > 本软件由 [NullCraft Studio (灵工艺工作室)](https://nullcraft.org) 开发\
 > 运行支持库 [.NET4.0或更高版本](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
@@ -57,7 +58,7 @@ description: NullCraft Minecraft Mods Updater
 
 #### **`新加文件式更新`** 即为在不动原文件的情况下更新
 
-例如今天要**单独或追加**更新 **`例子模组.jar 和 例子模组的配置文件` **我们就需要将它们打包到对应文件夹
+例如今天要**单独或追加**更新 **`例子模组.jar 和 例子模组的配置文件` ** 我们就需要将它们打包到对应文件夹
 
 最后ZIP目录结构是这样的:
 

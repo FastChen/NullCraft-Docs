@@ -2,7 +2,7 @@
 description: The Key of Teyvat
 ---
 
-# 提瓦特之匙 🎉
+# 提瓦特之匙
 
 {% hint style="success" %}
 软件最新版本:**1.2.0**\
@@ -43,7 +43,7 @@ description: The Key of Teyvat
 
 ### Q:有没有教程?
 
-**A:有 👉 **[视频教程](https://www.bilibili.com/video/BV1dQ4y1h7cm) 切换成功了记得三连哟\~
+**A:有 👉** [视频教程](https://www.bilibili.com/video/BV1dQ4y1h7cm) 切换成功了记得三连哟\~
 
 ### Q:我不想使用工具可以手动操作吗?
 

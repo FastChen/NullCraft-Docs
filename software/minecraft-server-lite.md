@@ -14,7 +14,7 @@ description: NullCraft Minecraft Server Lite
 [server.md](../issue/server.md)
 {% endcontent-ref %}
 
-## 版权信息 <a href="ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
+## 版权信息 <a href="#ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
 
 > 本软件由 [NullCraft Studio (灵工艺工作室)](https://nullcraft.org) 开发
 
@@ -39,9 +39,9 @@ description: NullCraft Minecraft Server Lite
 #### 步骤如下
 
 1. 打开开服器所在文件夹下的 **`config.ini`**
-2. 在文件最后一行回车，并添加 **`[Custom]` **为独立一行
+2. 在文件最后一行回车，并添加 **`[Custom]` ** 为独立一行
 3. 再次回车开启新的一行并添加命令 **`Command=`**
-4. 在 **`Command=` **等号后面输入你要添加的命令 **但是有以下要求!**
+4. 在 **`Command=` ** 等号后面输入你要添加的命令 **但是有以下要求!**
 
 * 开头必须由 **`/`** 开头
 * 每个命令中间使用 **`;`** 分割
