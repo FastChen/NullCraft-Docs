@@ -27,6 +27,7 @@ description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作�
 | 灵工艺Forge安装器   | NullCraft Forge Installer         | [官方](https://nullcraft.org/d/19)                                                      | [查看](software/forge-installer.md)        |                               NO                               |
 | 灵工艺腐蚀控制台      | NullCraft Rust Console            | [官方](https://nullcraft.org/d/24)                                                      | 暂无                                       |                               NO                               |
 | 提瓦特之匙         | The Key of Teyvat                 | [官方](https://nullcraft.org/d/20)                                                      | [查看](software/the-key-of-teyvat.md)      |     [Github](https://github.com/FastChen/The-Key-of-Teyvat)    |
+| 灵工艺泰拉瑞亚开服器    | NullCraft Terraria Server         | [官方](https://nullcraft.org/d/48)                                                      | 暂无                                       |                                                                |
 
 ### 🤖 酷Q插件
 
