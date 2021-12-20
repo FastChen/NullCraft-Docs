@@ -10,24 +10,27 @@ description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作�
 
 ## 向着完美无限接近 - 当前已有文档
 
-### 💡 已发布软件
+### 💾 独立软件
 
-| 名称(中文)        | 名称(英文)                            | 发布                                                                                    | 文档                                       |                             Source                             |
-| ------------- | --------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------- | :------------------------------------------------------------: |
-| 灵工艺我的世界开服器    | NullCraft Minecraft Server Pro    | [官方](https://nullcraft.org/d/5)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html) | [查看](outdated/minecraft-server-pro.md)   |                               NO                               |
-| 灵工艺未转变者开服器    | NullCraft Unturned Server         | [官方](https://nullcraft.org/d/6)、[MCBBS](https://www.mcbbs.net/thread-547338-1-1.html) | [查看](software/unturned-server.md)        |                               NO                               |
-| 灵工艺我的世界模组更新器  | NullCraft Minecraft Mods Updater  | [官方](https://nullcraft.org/d/7)                                                       | [查看](software/minecraft-mods-updater.md) |                               NO                               |
-| 灵工艺我的世界「轻」开服器 | NullCraft Minecraft Server Lite   | [官方](https://nullcraft.org/d/4)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html) | [查看](software/minecraft-server-lite.md)  |                               NO                               |
-| 我的世界服务器信息获取   | MinecraftOutClientWPF             | [GitHub](https://github.com/FastChen/MinecraftOutClientWPF)                           | 暂无                                       |   [GitHub](https://github.com/FastChen/MinecraftOutClientWPF)  |
-| 灵工艺我的世界皮肤获取器  | NullCraft Minecraft Skin Viewer   | [官方](https://nullcraft.org/d/8)                                                       | [查看](software/minecraft-skin-viewer.md)  | [GitHub](https://github.com/FastChen/NullCraft-Minecraft-Skin) |
-| 灵工艺简单动态壁纸     | NullCraft Simple Wallpaper Engine | 暂无                                                                                    | 暂无                                       |                               NO                               |
-| PHP 我的世界皮肤    | PHP Minecraft Skin                | [官方](https://nullcraft.org/d/9)                                                       | [查看](software/php-minecraft-skin.md)     |    [GitHub](https://github.com/FastChen/PHP-Minecraft-Skin)    |
-| 灵工艺哈希         | NullCraft Hash                    | [官方](https://nullcraft.org/d/12)                                                      | 暂无                                       |                               NO                               |
-| 灵工艺功能键通知      | NullCraft Function Key Notice     | [官方](https://nullcraft.org/d/15)                                                      | 暂无                                       |                               NO                               |
-| 灵工艺Forge安装器   | NullCraft Forge Installer         | [官方](https://nullcraft.org/d/19)                                                      | [查看](software/forge-installer.md)        |                               NO                               |
-| 灵工艺腐蚀控制台      | NullCraft Rust Console            | [官方](https://nullcraft.org/d/24)                                                      | 暂无                                       |                               NO                               |
-| 提瓦特之匙         | The Key of Teyvat                 | [官方](https://nullcraft.org/d/20)                                                      | [查看](software/the-key-of-teyvat.md)      |     [Github](https://github.com/FastChen/The-Key-of-Teyvat)    |
-| 灵工艺泰拉瑞亚开服器    | NullCraft Terraria Server         | [官方](https://nullcraft.org/d/48)                                                      | 暂无                                       |                                                                |
+
+
+| 软件名称            | 发布日期       | 发布地址                                                                                                              | 帮助文档                                               | 生命周期 |
+| --------------- | ---------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- |
+| 灵工艺我的世界开服器(Pro) | 2015-12-10 | [官方社区](https://nullcraft.org/d/5)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html)                           | [查看](outdated/minecraft-server-pro.md)             | 正在迭代 |
+| 灵工艺未转变者开服器      | 2016-01-28 | [官方社区](https://nullcraft.org/d/6)、[MCBBS](https://www.mcbbs.net/thread-547338-1-1.html)                           | [查看](software/unturned-server.md)                  | 正常   |
+| 灵工艺我的世界模组更新器    | 2018-04-23 | [官方社区](https://nullcraft.org/d/7)、[MCBBS](https://www.mcbbs.net/thread-791922-1-1.html)                           | [查看](software/minecraft-mods-updater.md)           | 暂停维护 |
+| 灵工艺我的世界「轻」开服器   | 2018-01-01 | [官方社区](https://nullcraft.org/d/4)、[MCBBS](https://www.mcbbs.net/thread-529520-1-1.html)                           | [查看](software/minecraft-server-lite.md)            | 正在迭代 |
+| 我的世界服务器信息获取     | 2018-08-06 | [MCBBS](https://www.mcbbs.net/thread-812137-1-1.html)、[Github](https://github.com/FastChen/MinecraftOutClientWPF) | 暂无                                                 | 开源   |
+| 灵工艺我的世界皮肤获取器    | 2018-01-01 | [官方社区](https://nullcraft.org/d/8)                                                                                 | 查看                                                 | 正常   |
+| 灵工艺简单动态壁纸       | -          | 暂未正式发布                                                                                                            | 暂无                                                 | 暂停开发 |
+| PHP 我的世界皮肤      | 2020-06-10 | [官方社区](https://nullcraft.org/d/9)、[Github](https://github.com/FastChen/PHP-Minecraft-Skin)                        | 查看                                                 | 开源   |
+| 灵工艺哈希           | 2020-01-01 | [官方社区](https://nullcraft.org/d/12)                                                                                | [查看](software/hash.md)                             | 正常   |
+| 灵工艺功能键通知        | 2020-01-01 | [官方社区](https://nullcraft.org/d/15)                                                                                | [查看](software/function-key-notice.md)              | 正常   |
+| 灵工艺Forge安装器     | 2020-01-01 | [官方社区](https://nullcraft.org/d/19)                                                                                | [查看](software/forge-installer.md)                  | 正常   |
+| 灵工艺腐蚀控制台        | 2020-01-01 | [官方社区](https://nullcraft.org/d/24)                                                                                | [查看](software/ling-gong-yi-fu-shi-kong-zhi-tai.md) | 正常   |
+| 提瓦特之匙           | 2020-01-01 | [官方社区](https://nullcraft.org/d/20)                                                                                | [查看](software/the-key-of-teyvat.md)                | 正常   |
+| 灵工艺联机组网         | 2021-10-01 | [官方社区](https://nullcraft.org/d/39)                                                                                | [查看](software/n2n.md)                              | 正常   |
+| 灵工艺泰拉瑞亚开服器      | 2021-12-15 | [官方社区](https://nullcraft.org/d/48)                                                                                | 准备中                                                | 正常   |
 
 ### 🤖 酷Q插件
 
