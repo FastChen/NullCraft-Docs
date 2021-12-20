@@ -3,6 +3,7 @@
 * [📔 入门](README.md)
 * [📝 捐助我们](donate.md)
 * [🎇 年度报告](report/README.md)
+  * [2021](report/2021.md)
   * [2020](report/2020.md)
   * [2019](report/2019.md)
   * [2018](report/2018.md)
