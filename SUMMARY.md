@@ -11,21 +11,21 @@
 * [💖 软件生命周期](software-life-cycle.md)
 * [👏 联系我们](contact.md)
 
-## 📚 主要教程 <a href="tutorial" id="tutorial"></a>
+## 📚 主要教程 <a href="#tutorial" id="tutorial"></a>
 
 * [Minecraft 开服教程](tutorial/minecraft-server.md)
 * [端口映射](tutorial/port-mapping.md)
 * [MarkDown 与 BBCode](tutorial/markdown-and-bbcode.md)
 
-## 👴 常见问题 <a href="issue" id="issue"></a>
+## 👴 常见问题 <a href="#issue" id="issue"></a>
 
 * [我的世界开服常见问题](issue/server.md)
 
-## 📂 资源下载 <a href="resource" id="resource"></a>
+## 📂 资源下载 <a href="#resource" id="resource"></a>
 
 * [🔨 支持库下载](resource/library-download.md)
 
-## 💡 已发布软件 <a href="software" id="software"></a>
+## 💡 已发布软件 <a href="#software" id="software"></a>
 
 * [灵工艺我的世界「轻」开服器](software/minecraft-server-lite.md)
 * [灵工艺未转变者开服器](software/unturned-server.md)
@@ -38,13 +38,14 @@
 * [灵工艺腐蚀控制台](software/ling-gong-yi-fu-shi-kong-zhi-tai.md)
 * [提瓦特之匙](software/the-key-of-teyvat.md)
 * [\[灵工艺\] 联机组网](software/n2n.md)
+* [灵工艺泰拉瑞亚开服器](software/terraria-server.md)
 
-## 🔌 已发布插件 <a href="plugin" id="plugin"></a>
+## 🔌 已发布插件 <a href="#plugin" id="plugin"></a>
 
 * [Minecraft 插件](plugin/minecraft/README.md)
   * [灵工艺规则](plugin/minecraft/ncrules.md)
 
-## ‼ 已停止支持内容 <a href="outdated" id="outdated"></a>
+## ‼ 已停止支持内容 <a href="#outdated" id="outdated"></a>
 
 * [灵工艺我的世界开服器Pro](outdated/minecraft-server-pro.md)
 * [灵工艺简单动态壁纸](software/simple-wallpaper-engine.md)
