@@ -11,6 +11,7 @@
   * [api-v1 🔧](api/v1.md)
 * [💖 软件生命周期](software-life-cycle.md)
 * [👏 联系我们](contact.md)
+* [😅 智慧的提问](How-To-Ask-Questions-The-Smart-Way.md)
 
 ## 📚 主要教程 <a href="#tutorial" id="tutorial"></a>
 
