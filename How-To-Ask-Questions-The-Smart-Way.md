@@ -48,13 +48,13 @@ Thyrsus Enterprises
 
 ### 目录
 
-* [弃权申明](How-To-Ask-Questions-The-Smart-Way.md#弃权申明)
-* [引言](How-To-Ask-Questions-The-Smart-Way.md#引言)
-* [提问前](How-To-Ask-Questions-The-Smart-Way.md#提问前)
-* [提问时](How-To-Ask-Questions-The-Smart-Way.md#提问时)
-  * [仔细挑选论坛](How-To-Ask-Questions-The-Smart-Way.md#仔细挑选论坛)
-  * [面向新手的论坛和互联网中继聊天（IRC）通常响应最快](How-To-Ask-Questions-The-Smart-Way.md#面向新手的论坛和互联网中继聊天irc通常响应最快)
-  * [第二步，使用项目的邮件列表](How-To-Ask-Questions-The-Smart-Way.md#第二步使用项目的邮件列表)
+* [弃权申明](How-To-Ask-Questions-The-Smart-Way.md#qi-quan-shen-ming)
+* [引言](How-To-Ask-Questions-The-Smart-Way.md#yin-yan)
+* [提问前](How-To-Ask-Questions-The-Smart-Way.md#ti-wen-qian)
+* [提问时](How-To-Ask-Questions-The-Smart-Way.md#ti-wen-shi)
+  * [仔细挑选论坛](How-To-Ask-Questions-The-Smart-Way.md#zai-xi-tiao-xuan-lun-tan)
+  * [面向新手的论坛和互联网中继聊天（IRC）通常响应最快](How-To-Ask-Questions-The-Smart-Way.md#mian-xiang-xin-shou-de-lun-tan-he-hu-lian-wang-zhong-ji-liao-tian-irc-tong-chang-xiang-ying-zui-kuai)
+  * [第二步，使用项目的邮件列表](How-To-Ask-Questions-The-Smart-Way.md#di-er-bu-shi-yong-xiang-mu-de-you-jian-lie-biao)
   * [使用有意义且明确的主题](How-To-Ask-Questions-The-Smart-Way.md#使用有意义且明确的主题)
   * [使问题容易回复](How-To-Ask-Questions-The-Smart-Way.md#使问题容易回复)
   * [用清晰、语法、拼写正确的语句书写](How-To-Ask-Questions-The-Smart-Way.md#用清晰语法拼写正确的语句书写)
@@ -74,17 +74,17 @@ Thyrsus Enterprises
   * [不要把问题标记为“紧急”，即使对你而言的确如此](How-To-Ask-Questions-The-Smart-Way.md#不要把问题标记为紧急即使对你而言的确如此)
   * [礼貌总是有益的](How-To-Ask-Questions-The-Smart-Way.md#礼貌总是有益的)
   * [问题解决后追加一条简要说明](How-To-Ask-Questions-The-Smart-Way.md#礼貌总是有益的)
-* [如何解读回答](How-To-Ask-Questions-The-Smart-Way.md#如何解读回答)
+* [如何解读回答](How-To-Ask-Questions-The-Smart-Way.md#ru-he-jie-du-hui-da)
   * [“读读该死的手册”（RTFM）和“搜搜该死的网络”（STFW）：如何明白你已完全搞砸](How-To-Ask-Questions-The-Smart-Way.md#读读该死的手册rtfm和搜搜该死的网络stfw如何明白你已完全搞砸)
   * [如果还不明白……](How-To-Ask-Questions-The-Smart-Way.md#如果还不明白)
-  * [对待无礼](How-To-Ask-Questions-The-Smart-Way.md#对待无礼)
+  * [对待无礼](How-To-Ask-Questions-The-Smart-Way.md#dui-dai-wu-li)
 * [别象失败者那样反应](How-To-Ask-Questions-The-Smart-Way.md#别象失败者那样反应)
 * [提问禁忌](How-To-Ask-Questions-The-Smart-Way.md#别象失败者那样反应)
 * [好问题与坏问题](How-To-Ask-Questions-The-Smart-Way.md#好问题与坏问题)
 * [如果得不到回答](How-To-Ask-Questions-The-Smart-Way.md#如果得不到回答)
 * [如何更好地回答](How-To-Ask-Questions-The-Smart-Way.md#如何更好地回答)
 * [相关资源](How-To-Ask-Questions-The-Smart-Way.md#相关资源)
-* [鸣谢](How-To-Ask-Questions-The-Smart-Way.md#鸣谢)
+* [鸣谢](How-To-Ask-Questions-The-Smart-Way.md#ming-xie)
 
 > 译文： 印尼语 白俄罗斯语 巴西葡萄牙语 简体中文 荷兰语 法语 乔治亚语 德语 希腊语 希伯来语 日语 波兰语 葡萄牙语 罗马尼亚语 俄语 西班牙语 泰语 如果你想复制、镜像、翻译或引用本文，请参阅我的 复制协议。
 
