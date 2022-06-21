@@ -75,15 +75,15 @@ Thyrsus Enterprises
   * [礼貌总是有益的](How-To-Ask-Questions-The-Smart-Way.md#礼貌总是有益的)
   * [问题解决后追加一条简要说明](How-To-Ask-Questions-The-Smart-Way.md#礼貌总是有益的)
 * [如何解读回答](How-To-Ask-Questions-The-Smart-Way.md#ru-he-jie-du-hui-da)
-  * [“读读该死的手册”（RTFM）和“搜搜该死的网络”（STFW）：如何明白你已完全搞砸](How-To-Ask-Questions-The-Smart-Way.md#读读该死的手册rtfm和搜搜该死的网络stfw如何明白你已完全搞砸)
-  * [如果还不明白……](How-To-Ask-Questions-The-Smart-Way.md#如果还不明白)
+  * [“读读该死的手册”（RTFM）和“搜搜该死的网络”（STFW）：如何明白你已完全搞砸](How-To-Ask-Questions-The-Smart-Way.md#du-du-gai-si-de-shou-ce-rtfm-he-sou-sou-gai-si-de-wang-luo-stfw-ru-he-ming-bai-ni-yi-wan-quan-gao-za)
+  * [如果还不明白……](How-To-Ask-Questions-The-Smart-Way.md#ru-guo-hai-bu-ming-bai)
   * [对待无礼](How-To-Ask-Questions-The-Smart-Way.md#dui-dai-wu-li)
-* [别象失败者那样反应](How-To-Ask-Questions-The-Smart-Way.md#别象失败者那样反应)
-* [提问禁忌](How-To-Ask-Questions-The-Smart-Way.md#别象失败者那样反应)
-* [好问题与坏问题](How-To-Ask-Questions-The-Smart-Way.md#好问题与坏问题)
-* [如果得不到回答](How-To-Ask-Questions-The-Smart-Way.md#如果得不到回答)
-* [如何更好地回答](How-To-Ask-Questions-The-Smart-Way.md#如何更好地回答)
-* [相关资源](How-To-Ask-Questions-The-Smart-Way.md#相关资源)
+* [别象失败者那样反应](How-To-Ask-Questions-The-Smart-Way.md#bie-xiang-shi-bai-zhe-na-yang-fan-ying)
+* [提问禁忌](How-To-Ask-Questions-The-Smart-Way.md#ti-wen-jin-ji)
+* [好问题与坏问题](How-To-Ask-Questions-The-Smart-Way.md#hao-wen-ti-yu-huai-wen-ti)
+* [如果得不到回答](How-To-Ask-Questions-The-Smart-Way.md#ru-guo-de-bu-dao-hui-da)
+* [如何更好地回答](How-To-Ask-Questions-The-Smart-Way.md#ru-he-geng-hao-di-hui-da)
+* [相关资源](How-To-Ask-Questions-The-Smart-Way.md#xiang-guan-zi-yuan)
 * [鸣谢](How-To-Ask-Questions-The-Smart-Way.md#ming-xie)
 
 > 译文： 印尼语 白俄罗斯语 巴西葡萄牙语 简体中文 荷兰语 法语 乔治亚语 德语 希腊语 希伯来语 日语 波兰语 葡萄牙语 罗马尼亚语 俄语 西班牙语 泰语 如果你想复制、镜像、翻译或引用本文，请参阅我的 复制协议。
@@ -427,7 +427,7 @@ Thyrsus Enterprises
 
 有一个古老而神圣的传统：如果你收到 `读读该死的手册`（RTFM） 的回复，发信人认为你应该去“读读该死的手册”。他或她多半是对的，去读一下吧。
 
-“读读该死的手册”（RTFM）有个年轻一点的亲戚，如果你收到“搜搜该死的网络”（STFW）的回复，发信人认为你应该“搜搜该死的网络”。那人多半也是对的，去搜一下吧。(更温和一点的说法是“[谷歌是你的朋友！](http://lmgtfy.com)”)
+“读读该死的手册”（RTFM）有个年轻一点的亲戚，如果你收到“搜搜该死的网络”（STFW）的回复，发信人认为你应该“搜搜该死的网络”。那人多半也是对的，去搜一下吧。(更温和一点的说法是“[谷歌是你的朋友！](http://lmgtfy.com/)”)
 
 在论坛，你也可能被要求去搜索论坛的文档。事实上，有人甚至可能热心地为你提供以前解决此问题的线索。但不要依赖这种关照，提问前应该先搜索一下文档。
 
