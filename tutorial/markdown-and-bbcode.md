@@ -1,7 +1,8 @@
 ---
 description: MarkDown And BBCode
 ---
-# MarkDown 与 BBCode 💼
+
+# MarkDown 与 BBCode
 
 ## MarkDown 语法
 
@@ -11,8 +12,8 @@ description: MarkDown And BBCode
 由于论坛不支持上传图片功能，故请使用图床功能，推荐图床如下
 {% endhint %}
 
-* [**sm.ms**](https://sm.ms) - Simple Free Image Hosting
-* ****[**upload.cc**](https://upload.cc) - 免費圖片上傳網
+* [**sm.ms**](https://sm.ms/) - Simple Free Image Hosting
+* ****[**upload.cc**](https://upload.cc/) - 免費圖片上傳網
 
 **如果你还知道有什么长寿命，稳定的图床可以通过用户群联系我**
 

@@ -21,7 +21,7 @@ description: 如果你的问题这里没有,可以到用户群发送报错截图
 答:你用的服务端不支持ForgeAPI，需要更换支持模组的服务端，如CatServer(支持插件)、Mohist(支持插件)、官方端打Forge(仅模组)
 
 {% hint style="info" %}
-服务端可以到[灵工艺资源广场](https://mcres.net)进行下载
+服务端可以到[灵工艺资源广场](https://mcres.net/)进行下载
 {% endhint %}
 
 ## 服务端常见错误问题

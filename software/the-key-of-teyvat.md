@@ -11,9 +11,9 @@ description: The Key of Teyvat
 
 ## 软件信息
 
-![The-Key-of-Teyvat](https://img.shields.io/github/stars/fastchen/The-Key-of-Teyvat?label=Star\&logo=github) ![The-Key-of-Teyvat](https://img.shields.io/github/issues/fastchen/The-Key-of-Teyvat?label=Issues) ![The-Key-of-Teyvat](https://img.shields.io/github/license/fastchen/The-Key-of-Teyvat?label=License)
+<img src="https://img.shields.io/github/stars/fastchen/The-Key-of-Teyvat?label=Star&#x26;logo=github" alt="The-Key-of-Teyvat" data-size="original"> <img src="https://img.shields.io/github/issues/fastchen/The-Key-of-Teyvat?label=Issues" alt="The-Key-of-Teyvat" data-size="original"> <img src="https://img.shields.io/github/license/fastchen/The-Key-of-Teyvat?label=License" alt="The-Key-of-Teyvat" data-size="original">
 
-用于配合[万能派蒙](https://ys.nullcraft.org)的离线工具，不包含任何联网，[开源](https://github.com/FastChen/The-Key-of-Teyvat)，仅代替手动实现部分快捷功能。
+用于配合[万能派蒙](https://ys.nullcraft.org/)的离线工具，不包含任何联网，[开源](https://github.com/FastChen/The-Key-of-Teyvat)，仅代替手动实现部分快捷功能。
 
 ## 软件下载(唯一)
 

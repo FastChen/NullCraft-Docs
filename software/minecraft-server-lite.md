@@ -217,7 +217,7 @@ description: NullCraft Minecraft Server Lite
 
 `[更新]`
 
-* \[资源广场] 持续动态更新中 (网页版:[mcres.nullcraft.org](https://mcres.nullcraft.org))
+* \[资源广场] 持续动态更新中 (网页版:[mcres.nullcraft.org](https://mcres.nullcraft.org/))
 * \[文件管理] 文件大小统计
 
 `[优化]`
