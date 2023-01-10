@@ -68,3 +68,10 @@
   * [\[灵工艺\] 哔哩哔哩](outdated/coolq/bilibili.md)
   * [\[灵工艺\] 禁言套餐](outdated/coolq/jin-yan-tao-can.md)
   * [\[灵工艺\] 状态](outdated/coolq/status.md)
+
+## 🗃 \[未完工] 使用教程 <a href="#tutorial" id="tutorial"></a>
+
+* [🗄 软件](tutorial-1/software/README.md)
+  * [灵工艺测试软件](tutorial-1/software/terraria-server.md)
+* [🔌 插件](tutorial-1/plugin.md)
+* [📦 其它资源](tutorial-1/resource.md)
