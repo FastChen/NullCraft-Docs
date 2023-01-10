@@ -2,7 +2,7 @@
 description: '[NullCraft] JinYanTaoCan'
 ---
 
-# \[灵工艺] 禁言套餐 🔧
+# \[灵工艺] 禁言套餐
 
 ## 软件信息
 
@@ -18,8 +18,8 @@ SDK: **V9**\
 
 ## 捐助我们
 
-{% content-ref url="../../donate.md" %}
-[donate.md](../../donate.md)
+{% content-ref url="../../donate/" %}
+[donate](../../donate/)
 {% endcontent-ref %}
 
 ## 更新记录

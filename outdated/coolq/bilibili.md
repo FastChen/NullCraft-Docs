@@ -2,7 +2,7 @@
 description: '[NullCraft] BiliBili'
 ---
 
-# \[灵工艺] 哔哩哔哩 🔧
+# \[灵工艺] 哔哩哔哩
 
 ## 软件信息
 
@@ -56,8 +56,8 @@ SDK: **V9**\
 
 ## 捐助我们
 
-{% content-ref url="../../donate.md" %}
-[donate.md](../../donate.md)
+{% content-ref url="../../donate/" %}
+[donate](../../donate/)
 {% endcontent-ref %}
 
 ## 更新记录

@@ -51,8 +51,8 @@ description: The Key of Teyvat
 
 ## 捐助我们
 
-{% content-ref url="../donate.md" %}
-[donate.md](../donate.md)
+{% content-ref url="../donate/" %}
+[donate](../donate/)
 {% endcontent-ref %}
 
 ## 更新日志

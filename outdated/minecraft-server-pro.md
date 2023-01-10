@@ -67,6 +67,6 @@ Minecraft开服器建立在Server服务端上，一般情况下服务端通常�
 
 ## 捐助我们
 
-{% content-ref url="../donate.md" %}
-[donate.md](../donate.md)
+{% content-ref url="../donate/" %}
+[donate](../donate/)
 {% endcontent-ref %}

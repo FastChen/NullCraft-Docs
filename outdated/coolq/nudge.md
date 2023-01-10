@@ -2,7 +2,7 @@
 description: '[NullCraft] Nudge'
 ---
 
-# \[灵工艺] 拍一拍 🔧
+# \[灵工艺] 拍一拍
 
 ## 软件信息
 
@@ -16,8 +16,8 @@ SDK: **V9**\
 
 ## 捐助我们
 
-{% content-ref url="../../donate.md" %}
-[donate.md](../../donate.md)
+{% content-ref url="../../donate/" %}
+[donate](../../donate/)
 {% endcontent-ref %}
 
 ## 更新记录

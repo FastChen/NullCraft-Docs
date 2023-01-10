@@ -105,6 +105,6 @@ DMZ主机是将整台电脑暴露在外网下(但要拥有外网),**不需要端
 
 ## 捐助我们
 
-{% content-ref url="../donate.md" %}
-[donate.md](../donate.md)
+{% content-ref url="../donate/" %}
+[donate](../donate/)
 {% endcontent-ref %}

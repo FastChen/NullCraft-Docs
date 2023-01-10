@@ -1,9 +1,10 @@
 ---
 description: NullCraft Minecraft Skin Viewer
 ---
-# 灵工艺我的世界皮肤查看器 🔧
 
-## 软件信息 <a href="ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
+# 灵工艺我的世界皮肤查看器
+
+## 软件信息 <a href="#ruan-jian-xin-xi" id="ruan-jian-xin-xi"></a>
 
 > 本软件由 [NullCraft Studio (灵工艺工作室)](https://nullcraft.org) 开发\
 > 运行支持库 .NET2.0或更高版本
@@ -30,8 +31,8 @@ description: NullCraft Minecraft Skin Viewer
 
 ## 捐助我们
 
-{% content-ref url="../donate.md" %}
-[donate.md](../donate.md)
+{% content-ref url="../donate/" %}
+[donate](../donate/)
 {% endcontent-ref %}
 
 ## 更新记录
