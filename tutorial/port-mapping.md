@@ -14,7 +14,7 @@ description: Port Mapping
 
 * 关闭防火墙或允许软件 **不会?看这里** \[[**Windows10**](https://support.microsoft.com/zh-cn/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)] \[[**Windows7**](https://zhidao.baidu.com/question/332263896304727805.html)]
 * 将软件列入杀毒软件的白名单 **端口映射使用API操作** 可能出现拦截
-* 判断自己是否拥有外网 **让别人Ping你IP就可以了** [**不会ping?看这里**](https://jingyan.baidu.com/article/fa4125ace1adf028ac709295.html)****
+* 判断自己是否拥有外网 **让别人Ping你IP就可以了** [**不会ping?看这里**](https://jingyan.baidu.com/article/fa4125ace1adf028ac709295.html)
 * 给予软件管理员权限 **不会?** **右键 > 以管理员身份运行**
 * 开启路由器的**端口映射**功能又名**虚拟服务器**
 

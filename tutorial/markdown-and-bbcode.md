@@ -13,7 +13,7 @@ description: MarkDown And BBCode
 {% endhint %}
 
 * [**sm.ms**](https://sm.ms/) - Simple Free Image Hosting
-* ****[**upload.cc**](https://upload.cc/) - 免費圖片上傳網
+* [**upload.cc**](https://upload.cc/) - 免費圖片上傳網
 
 **如果你还知道有什么长寿命，稳定的图床可以通过用户群联系我**
 
@@ -34,9 +34,9 @@ ___粗斜体文本___
 {% tab title="效果预览" %}
 _斜体文本_\
 _斜体文本_\
-__**粗体文本**\
 **粗体文本**\
-****_**粗斜体文本**_\
+**粗体文本**\
+_**粗斜体文本**_\
 _**粗斜体文本**_
 {% endtab %}
 {% endtabs %}
