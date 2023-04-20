@@ -49,7 +49,7 @@
 * [灵工艺Forge安装器](software/forge-installer.md)
 * [灵工艺腐蚀控制台](software/ling-gong-yi-fu-shi-kong-zhi-tai.md)
 * [提瓦特之匙](software/the-key-of-teyvat.md)
-* [\[灵工艺\] 联机组网](software/n2n/README.md)
+* [\[灵工艺\] 联机组网](software/n2n.md)
   * [联机组网更新日志](software/n2n/update-logs.md)
 * [灵工艺泰拉瑞亚开服器](software/terraria-server.md)
 
