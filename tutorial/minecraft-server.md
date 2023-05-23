@@ -65,9 +65,3 @@ description: Open Minecraft Server
 {% content-ref url="../issue/server.md" %}
 [server.md](../issue/server.md)
 {% endcontent-ref %}
-
-### 端口映射 或 内网穿透
-
-对于国内网络资源来看，大部分人的宽带都是不给外网的，这时你只能选择购买一台服务器或者使用内网穿透软件。
-
-对于开服时常达到10天以上的，我们优先推荐购买一台服务器使用，可以选择灵工艺(未见云)&未知云VPS，价格便宜，仅35¥/月，具体价格表可查看 [官方网站](https://unnocloud.com/) 或加入 [未见云用户服务群](https://jq.qq.com/?\_wv=1027\&k=wG20LVUW)
