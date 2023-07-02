@@ -1,5 +1,6 @@
 # Table of contents
 
+* [😊 访问新文档](https://docs.nullcraft.org/)
 * [📔 入门](README.md)
 * [📝 捐助我们](donate/README.md)
   * [🐰 2023年捐助列表](donate/2023.md)
