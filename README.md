@@ -2,6 +2,12 @@
 description: 这里讲解灵工艺(NullCraft)的官方原创软件与其他作品
 ---
 
+# 提示:
+**此文档已被归档，部分内容仍可参考，但需要最新内容请访问新文档：[灵工艺文档](https://docs.nullcraft.org/)**
+
+**如需参与编辑，请访问新文档Github Repo：[NullCraftOrg/docs](https://github.com/NullCraftOrg/docs)**
+
+
 # 📔 入门
 
 {% hint style="warning" %}
